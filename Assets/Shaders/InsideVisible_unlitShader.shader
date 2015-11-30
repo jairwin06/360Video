@@ -1,5 +1,7 @@
 ﻿// Based on Unlit shader, but culls the front faces instead of the back
 
+//Bernie Roehl - http://bernieroehl.com/360stereoinunity/
+
 Shader "InsideVisible" {
 Properties {
 	_MainTex ("Base (RGB)", 2D) = "white" {}
